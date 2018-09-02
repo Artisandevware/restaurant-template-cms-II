@@ -1,5 +1,5 @@
 ---
-title: outside
+title: kitchen
 image: /img/gallery/asdf.jpg
 ---
 
